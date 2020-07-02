@@ -1,0 +1,19 @@
+.float-middle {
+    float: center;
+}
+
+#header-title {
+    align-items: center;
+}
+
+body {
+    margin-top: 0px;
+}
+
+#logo {
+    padding: 5px;
+}
+
+.foot {
+    background-color: blanchedalmond;
+}
