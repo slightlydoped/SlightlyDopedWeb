@@ -17,3 +17,8 @@ body {
 .foot {
     background-color: blanchedalmond;
 }
+
+#footer{
+    background-color:#008f93;
+    text-align: center;
+}
