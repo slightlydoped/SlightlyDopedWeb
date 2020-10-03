@@ -43,14 +43,18 @@ h1 span{
 	margin: 18px;
 }
 
-#contactUs{
-	position:relative;
-	align-items: center;
-	display:grid ;
-}
 .inputField{
 	max-width:850px;
 	width:100%;
 	padding: 10px;
 	margin: 5px 20px;
+}
+#submitButton{
+	padding:10px;
+	margin: 0px 20px 20px 20px;
+	width: auto;
+	border: none;
+	background-color:green;
+	text-align:center;
+	color: white;
 }
