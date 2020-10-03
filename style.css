@@ -1,5 +1,5 @@
 *{
-	font-family:Quickstand, sans-serif;
+	font-family:Quicksand, sans-serif;
 }
 
 .float-middle {
@@ -36,9 +36,21 @@ p Strong{
 	color:#008f93;
 }
 h1 span{
-	font-family:Quickstand, sans-serif;
+	font-family:Quicksand,sans-serif;
 	color: #008f93;
 	border: 5px dashed #008f93;
 	padding:5px 10px 10px 10px;
 	margin: 18px;
+}
+
+#contactUs{
+	position:relative;
+	align-items: center;
+	display:grid ;
+}
+.inputField{
+	max-width:850px;
+	width:100%;
+	padding: 10px;
+	margin: 5px 20px;
 }
