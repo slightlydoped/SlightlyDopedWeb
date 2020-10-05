@@ -11,7 +11,7 @@ Website Structure
 * API image - Unsplash API (https://source.unsplash.com/)
 3. About Slightly Doped:
 * Description
-4. iFrame YouTube Intro Video
+4. iFrame YouTube Intro Video & some Corse/Project Intro Videos
 5. 2 Cards : ( https://getbootstrap.com/docs/4.5/components/card/ )
 * Image at the Top
 * Description below
