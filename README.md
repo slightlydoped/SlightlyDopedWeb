@@ -25,7 +25,7 @@ Website Structure
    * Your Name
    * Email id
    * How can we help you ?
-8. Footer :
+8. Footer : (Completed)
 * Social Media presence
 * © Slightly Doped 2020.
 * All Rights Reserved.
