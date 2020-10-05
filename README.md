@@ -2,7 +2,7 @@ Slightly Doped - e-learning platform
 Website Structure
 
 
-1. At the Top, there will be a Navigation bar.
+1. At the Top, there will be a Navigation bar. (Completed)
 * 'Slightly Doped' at the left,
 * Home, Courses, Blog, About Us, Contact (https://getbootstrap.com/docs/4.5/components/navbar/)
 * Sign Up/Login at the Right (Use Bootstrap Modals)
